@@ -1,0 +1,1 @@
+This repository includes the assignment: Bootstrap Layout in Module 9: Lesson 2 of the Software Engineering Core.
